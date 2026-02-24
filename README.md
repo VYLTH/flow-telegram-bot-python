@@ -193,13 +193,13 @@ ngrok http 8080
 
 ## Why Flow?
 
-| | Flow | BitPay | CoinGate | NOWPayments |
-|---|---|---|---|---|
-| Fee | **0.5%** | 1-2% | 1% | 0.5-1% |
-| Self-custody | **Yes** | No | No | No |
-| Chains | **12+** | 5 | 8 | 10 |
-| Settlement | **Minutes** | 24-48h | 24h | Hours |
-| Integration | **1 API call** | SDK + dashboard | SDK + dashboard | SDK + dashboard |
+| | Flow | Typical Gateway |
+|---|---|---|
+| Fee | **0.5%** | 1-3% |
+| Self-custody | **Yes** | No — they hold your funds |
+| Chains | **12+** | 3-8 |
+| Settlement | **Minutes** | Hours to days |
+| Integration | **1 API call** | SDK + dashboard setup |
 
 Your keys, your wallets, your funds. Flow never touches your money.
 
