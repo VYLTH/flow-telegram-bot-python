@@ -203,6 +203,10 @@ ngrok http 8080
 
 Your keys, your wallets, your funds. Flow never touches your money.
 
+## Also Available
+
+- **[Node.js version](https://github.com/VYLTH/flow-telegram-bot-nodejs)** — same template using Telegraf
+
 ## License
 
 MIT — use it however you want.
